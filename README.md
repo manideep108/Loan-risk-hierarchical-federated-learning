@@ -9,8 +9,6 @@ Privacy-preserving loan risk prediction using Hierarchical Federated Learning. S
 
 ## Result Plots
 
-![Accuracy Plot](# Loan Prediction HFL Simulation
-
 Privacy-preserving loan risk prediction using Hierarchical Federated Learning. Simulates distributed, non-IID client data and multi-server federated aggregation.
 
 ## Key Results
