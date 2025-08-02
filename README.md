@@ -18,11 +18,6 @@ Privacy-preserving loan risk prediction using Hierarchical Federated Learning. S
 - Achieved ~88.5% global model accuracy after 10 rounds.
 - Robustness measured under non-IID data and client variation.
 
-## Result Plots
-
-![Accuracy , f1 score  Plot]((https://github.com/manideep108/Loan-risk-hierarchical-federated-learning/blob/main/result.jpg))
-
-
 ## How to Use
 
 1. Clone the repo and place the data file in the project folder.
